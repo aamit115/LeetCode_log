@@ -1,4 +1,6 @@
 
+#include <stdlib.h>
+
 typedef struct Node {
     int val;
     struct Node* next;
@@ -46,15 +48,15 @@ void myLinkedListAddAtTail(MyLinkedList* obj, int val) {
 }
 
 void myLinkedListAddAtIndex(MyLinkedList* obj, int index, int val) {
-    if (index > obj->size) return;
-    if (index <= 0) {
+    if (index < 0 || index > obj->size) return;
+    if (index == 0) {
         myLinkedListAddAtHead(obj, val);
         return;
     }
-    Node* newNode = malloc(sizeof(Node));
-    newNode->val = val;
     Node* curr = obj->head;
     for (int i = 0; i < index - 1; i++) curr = curr->next;
+    Node* newNode = malloc(sizeof(Node));
+    newNode->val = val;
     newNode->next = curr->next;
     curr->next = newNode;
     obj->size++;
@@ -62,17 +64,17 @@ void myLinkedListAddAtIndex(MyLinkedList* obj, int index, int val) {
 
 void myLinkedListDeleteAtIndex(MyLinkedList* obj, int index) {
     if (index < 0 || index >= obj->size) return;
+    Node* temp;
     if (index == 0) {
-        Node* temp = obj->head;
+        temp = obj->head;
         obj->head = obj->head->next;
-        free(temp);
     } else {
         Node* curr = obj->head;
         for (int i = 0; i < index - 1; i++) curr = curr->next;
-        Node* temp = curr->next;
+        temp = curr->next;
         curr->next = temp->next;
-        free(temp);
     }
+    free(temp);
     obj->size--;
 }
 
