@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aamit115/LeetCode_log/tree/master/0707-design-linked-list) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
