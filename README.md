@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/aamit115/LeetCode_log/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/aamit115/LeetCode_log/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
