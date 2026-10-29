@@ -23,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
