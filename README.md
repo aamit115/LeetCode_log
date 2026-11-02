@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aamit115/LeetCode_log/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aamit115/LeetCode_log/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aamit115/LeetCode_log/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/aamit115/LeetCode_log/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
