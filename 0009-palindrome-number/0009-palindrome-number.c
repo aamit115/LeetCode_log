@@ -1,10 +1,14 @@
-#include <stdbool.h>
 bool isPalindrome(int x) {
-long reversedNum = 0; 
-int originalX = x;
-while (x > 0) {
-    int lastDigit = x % 10;
-    reversedNum = reversedNum * 10 + lastDigit; 
-    x = x / 10; 
+int num=x;
+    long long r=0; 
+    if(x<0)
+     return 0;
+    while(num!=0){
+    r= r*10+(num%10);
+    num=num/10;
+    }
+if(x==r)
+ return 1;
+else    
+    return 0;
 }
-return originalX == reversedNum;}
