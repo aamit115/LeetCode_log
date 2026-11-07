@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0136-single-number](https://github.com/aamit115/LeetCode_log/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/aamit115/LeetCode_log/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/aamit115/LeetCode_log/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,4 +86,8 @@ A collection of LeetCode questions
 | [0009-palindrome-number](https://github.com/aamit115/LeetCode_log/tree/master/0009-palindrome-number) |
 | [2235-add-two-integers](https://github.com/aamit115/LeetCode_log/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aamit115/LeetCode_log/tree/master/2469-convert-the-temperature) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/aamit115/LeetCode_log/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
