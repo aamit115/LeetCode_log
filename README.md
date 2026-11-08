@@ -84,6 +84,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/aamit115/LeetCode_log/tree/master/0009-palindrome-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/aamit115/LeetCode_log/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/aamit115/LeetCode_log/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/aamit115/LeetCode_log/tree/master/2469-convert-the-temperature) |
 ## Prefix Sum
