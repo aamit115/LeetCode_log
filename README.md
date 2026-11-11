@@ -20,6 +20,7 @@ A collection of LeetCode questions
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aamit115/LeetCode_log/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aamit115/LeetCode_log/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/aamit115/LeetCode_log/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,4 +102,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/aamit115/LeetCode_log/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/aamit115/LeetCode_log/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
