@@ -18,6 +18,7 @@ A collection of LeetCode questions
 | [0136-single-number](https://github.com/aamit115/LeetCode_log/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/aamit115/LeetCode_log/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/aamit115/LeetCode_log/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/aamit115/LeetCode_log/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/aamit115/LeetCode_log/tree/master/1920-build-array-from-permutation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -106,4 +108,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/aamit115/LeetCode_log/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
