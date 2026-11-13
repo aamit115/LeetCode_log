@@ -17,6 +17,7 @@ A collection of LeetCode questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aamit115/LeetCode_log/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aamit115/LeetCode_log/tree/master/0136-single-number) |
 | [0643-maximum-average-subarray-i](https://github.com/aamit115/LeetCode_log/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/aamit115/LeetCode_log/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aamit115/LeetCode_log/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/aamit115/LeetCode_log/tree/master/1480-running-sum-of-1d-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/aamit115/LeetCode_log/tree/master/0032-longest-valid-parentheses) |
+| [0682-baseball-game](https://github.com/aamit115/LeetCode_log/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/aamit115/LeetCode_log/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/aamit115/LeetCode_log/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
