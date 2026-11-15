@@ -9,6 +9,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/aamit115/LeetCode_log/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/aamit115/LeetCode_log/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -121,4 +122,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aamit115/LeetCode_log/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aamit115/LeetCode_log/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aamit115/LeetCode_log/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
